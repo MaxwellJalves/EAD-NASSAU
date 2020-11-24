@@ -5,4 +5,4 @@ CREATE DATABASE Escola;
 CREATE DATABASE nome_do_banco OWNER usuario TABLESPACE dpapg;
 
 --referencia
-https://www.oracle.com/br/technical-resources/articles/tablespaces-concept-introduction.html
+--https://www.oracle.com/br/technical-resources/articles/tablespaces-concept-introduction.html
